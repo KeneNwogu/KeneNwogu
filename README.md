@@ -7,9 +7,8 @@
 
 <p>
   <img src = "https://github-readme-stats.vercel.app/api?username=KeneNwogu&show_icons=true&theme=tokyonight&line_height=27">
-  [![Profile views](https://gpvc.arturio.dev/KeneNwogu)](https://gpvc.arturio.dev/KeneNwogu)
 </p>
-
+[![Profile views](https://gpvc.arturio.dev/KeneNwogu)](https://gpvc.arturio.dev/KeneNwogu)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KeneNwogu)](https://git.io/streak-stats)
 
 
