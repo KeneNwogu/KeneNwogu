@@ -10,7 +10,7 @@
 </p>
 
 <div align = "center">
-  ![Profile views](https://gpvc.arturio.dev/olumidayy)
+  ![Profile views](https://gpvc.arturio.dev/KeneNwogu)
 </div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KeneNwogu)](https://git.io/streak-stats)
