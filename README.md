@@ -10,6 +10,7 @@
 </p>
 
 ![Profile views](https://gpvc.arturio.dev/KeneNwogu)](https://gpvc.arturio.dev/KeneNwogu)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KeneNwogu)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KeneNwogu)](https://git.io/streak-stats)
 
 
